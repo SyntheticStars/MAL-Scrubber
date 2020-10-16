@@ -10,4 +10,6 @@ A Selenium webdriver x python script tool for easy scrubbing of myanimelist.net 
 7) Read all the notes inside the file. It's the text that comes after a #. They're green in a proper code editor or Np++
 8) Save the changes, exit the file, double click on it (or run after dragging into cmd if you're an oldfriend).
 9) Sit back and enjoy watching a retro-chronological slideshow of your forum posts... being deleted :>
-Note: The 3 steps above take 15 minutes, in the worst case, just look it up in YT.
+
+Note: The steps above take 15 minutes, in the worst case, just look it up in YT if you need help with the webdriver and python enviroment.
+There are simple 2-4 minute videos for each of the 1st 3 steps and that is with(!) explanation. Repeating what they show there takes even less time.
