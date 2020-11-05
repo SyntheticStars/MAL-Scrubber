@@ -17,4 +17,5 @@ OR
 9) Sit back and watch all you list entries disappear one by one.
 
 Note: The steps above take 15 minutes, in the worst case, just look it up in YT if you need help with the webdriver and python enviroment.
-There are simple 2-4 minute videos for each of the 1st 3 steps and that is with(!) explanation. Repeating what they show there takes even less time.
+There are simple 2-4 minute videos for each of the 1st 3 steps and that is with(!) the explanation. 
+Repeating what they show there takes even less time.
