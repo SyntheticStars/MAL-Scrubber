@@ -1,5 +1,5 @@
 # MAL-Scrubber(s)
-A Selenium webdriver x python script tool for easy scrubbing of myanimelist.net forum posts
+A Selenium webdriver x python script tool for easy scrubbing of myanimelist.net forum posts and another for anime / manga list entries.
 
 1) Download and install Selenium webdriver -> Chromedriver
 2) Download and install Python.
