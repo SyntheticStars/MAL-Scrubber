@@ -22,9 +22,9 @@ login.send_keys(password)
 login.send_keys(Keys.ENTER)
 time.sleep(1)
 
-# in line 29 replace the link to my own recent messages page with the one redirecting to yours
-# otherwise you'll be attempting to clean my posts instead of your own
-# i left mine there as an example to clarify what the required link/page looks like
+# in line 29 replace the link to my (Lux_Lucis) recent messages page with the one redirecting to yours
+# otherwise you'll be attempting to clean my posts instead of your own... good luck with that.
+# i left mine there as an example to clarify what the required link/page looks like and where to insert it
 driver.get(
     "https://myanimelist.net/forum/search?u=Lux_Lucis&q=&uloc=1&loc=-1")
 time.sleep(6)
