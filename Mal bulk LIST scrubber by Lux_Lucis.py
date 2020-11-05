@@ -24,7 +24,7 @@ time.sleep(1)
 
 # in line 29 replace the link to my (Lux_Lucis) list page with the one redirecting to yours
 # otherwise you'll be attempting to clean my list instead of your own... good luck with that.
-# i left mine there as an example to clarify what the required link/page looks like
+# i left mine there as an example to clarify what the required link/page looks like and where to insert it
 driver.get(
     "https://myanimelist.net/animelist/Lux_Lucis")
 time.sleep(6)
