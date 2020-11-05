@@ -11,7 +11,9 @@ A Selenium webdriver x python script tool for easy scrubbing of myanimelist.net 
 8) Save the changes, exit the file, double click on it (or run after dragging into cmd if you're an oldfriend).
 
 9) Sit back and enjoy watching a retro-chronological slideshow of your forum posts... being deleted :>
+
 OR
+
 9) Sit back and watch all you list entries disappear one by one.
 
 Note: The steps above take 15 minutes, in the worst case, just look it up in YT if you need help with the webdriver and python enviroment.
