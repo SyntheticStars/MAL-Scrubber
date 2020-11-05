@@ -5,8 +5,8 @@ from selenium.common.exceptions import ElementClickInterceptedException
 
 # here you fill in your myanimelist lgoin credentials
 # they don't go anywhere dw this script is not made to steal login credentials in a weeb fantsy forum
-username = "USERNAME_FILL_IN_HERE_AND_LEAVE_THE_QUOTATION_MARKS"
-password = "PASSWORD_FILL_IN_HERE_AND_LEAVE_THE_QUOTATION_MARKS"
+username = "USERNAME_FILL_IN_HERE_AND_LEAVE_THE_QUOTATION_MARKS_INTACT"
+password = "PASSWORD_FILL_IN_HERE_AND_LEAVE_THE_QUOTATION_MARKS_INTACT"
 
 # as you can see the script is made for chrome browser and runs in default 100% magnification
 driver = webdriver.Chrome()
